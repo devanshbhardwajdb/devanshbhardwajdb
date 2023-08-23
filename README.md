@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devansh Bhardwaj DB
 - 👀 I am interested in Web Development
 - 🌱 I’m currently learning Backend Development
-- 💞️ Youtuber with 1.3k Subs
+- 💞️ Youtuber with 1.3k Subs (Singer & Musician by passion)
 - 📫 Personal Portfolio link : https://devansh-db-portfolio.netlify.app/
 
 <!---
