@@ -114,7 +114,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/devanshbhardwajdb/devanshbhardwajdb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devanshbhardwajdb/devanshbhardwajdb/dist/snake.svg" alt="Snake animation" />
 
 ###
 
