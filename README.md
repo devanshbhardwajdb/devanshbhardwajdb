@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Amazeart<br><br>🌱 I’m currently learning Backend more deeply.<br><br>👨‍💻 Checkout my Portfolio at https://devansh-db-portfolio.netlify.app/<br><br>💬 Ask me about Next, React, Node, Js<br><br>📫 Reach me at : dbhardwaj1033@gmail.com<br><br>⚡ Fun fact I am a fast and great learner. Also a Singer, Guitarist, Pianist, Drummer, Music Producer, Composer and Lyricist by passion.</p>
+<p align="left">🔭 I’m currently working on Amazeart<br><br>🌱 I’m currently learning Backend more deeply.<br><br>👨‍💻 Checkout my Portfolio at https://devanshdb.netlify.app/<br><br>💬 Ask me about Next, React, Node, Js<br><br>📫 Reach me at : dbhardwaj1033@gmail.com<br><br>⚡ Fun fact I am a fast and great learner. Also a Singer, Guitarist, Pianist, Drummer, Music Producer, Composer and Lyricist by passion.</p>
 
 ###
 
