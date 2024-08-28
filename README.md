@@ -1,13 +1,15 @@
 
-# Profile Views
-[![](https://visitcount.itsvg.in/api?id=devanshbhardwajdb&icon=10&color=6)](https://visitcount.itsvg.in)
+
 
 # About Me 👋
-<img align="right" width="260" src="https://user-images.githubusercontent.com/70108561/209478924-74a23b0c-2931-421c-9faa-30be4017295b.png" alt="octocat">
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="octocat">
 
-Hi 👋, I’m Devansh, a **Full Stack Developer** 💻 with a degree in **Computer Science**. Currently, I'm expanding my skills into **mobile development** 📱. Beyond my technical pursuits, I’m also passionate about **music**: singing, playing the guitar 🎸.
+Hi 👋, I’m Devansh, a **Full Stack Developer** 💻 with a degree in **Computer Science**.</br> 
+Currently, I'm expanding my skills into **mobile development** 📱 </br>
+Beyond my technical pursuits, I’m also passionate about **music**: singing, playing the guitar 🎸
+##
+[![](https://visitcount.itsvg.in/api?id=devanshbhardwajdb&icon=10&color=6)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devansh.bhardwaj.165470)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devanshbhardwaj_db)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshbhardwajdb)
@@ -36,7 +38,7 @@ Hi 👋, I’m Devansh, a **Full Stack Developer** 💻 with a degree in **Compu
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Platforms
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -44,8 +46,6 @@ Hi 👋, I’m Devansh, a **Full Stack Developer** 💻 with a degree in **Compu
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Tools and Softwares
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -56,7 +56,5 @@ Hi 👋, I’m Devansh, a **Full Stack Developer** 💻 with a degree in **Compu
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshbhardwajdb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | 
 
 ---
-
-![Right Side Moving GIF](https://user-images.githubusercontent.com/70108561/209478924-74a23b0c-2931-421c-9faa-30be4017295b.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
